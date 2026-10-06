@@ -14,5 +14,5 @@ if(MSVC)
 endif()
 
 set_target_properties(FarCry4Camera PROPERTIES
-    OUTPUT_NAME "FarCry4Camera"
+    OUTPUT_NAME "FarCry4Camera_v0.2"
 )
