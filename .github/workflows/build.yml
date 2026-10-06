@@ -17,5 +17,5 @@ jobs:
       - name: Upload DLL
         uses: actions/upload-artifact@v4
         with:
-          name: FarCry4Camera
-          path: build/Release/FarCry4Camera.dll
+          name: FarCry4Camera_v0.2
+          path: build/Release/FarCry4Camera_v0.2.dll
